@@ -9,5 +9,4 @@
 <img src="https://img.shields.io/badge/-Github-informational"/>
 <img src="https://img.shields.io/badge/-HTML-brightgreen"/>
 
-![shchoichoko's GitHub stats](https://github-readme-stats.vercel.app/api?username=shchoichoko&show_icons=true&theme=dark)  
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ST0PHoon)](https://github.com/ST0PHoon/github-readme-stats) -->
+![shchoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shchoichoko&show_icons=true&theme=dark)  
