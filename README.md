@@ -10,3 +10,5 @@
 <img src="https://img.shields.io/badge/-HTML-brightgreen"/>
 
 ![shchoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shchoichoko&show_icons=true&theme=dark)  
+<br>
+[![백준티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=shchoi)](https://solved.ac/shchoi)
