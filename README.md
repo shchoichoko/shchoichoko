@@ -3,10 +3,16 @@
 # 웹 수업
 - 홈페이지 : https://shchoichoko.github.io/web/
 
-<img src="https://img.shields.io/badge/-JAVA-blueviolet"/><img src="https://img.shields.io/badge/-C%20%EC%96%B8%EC%96%B4-lightgrey"/>
-<img src="https://img.shields.io/badge/-LINUX-critical"/>
-<img src="https://img.shields.io/badge/-Github-informational"/>
-<img src="https://img.shields.io/badge/-HTML-brightgreen"/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> 
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> 
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> 
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+
 
 ![shchoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shchoichoko&show_icons=true&theme=dark)  
 
